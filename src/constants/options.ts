@@ -1,0 +1,1 @@
+export const SORT_OPTIONS = ["relevancy", "popularity", "publishedAt"].map(item=>({ label: item, value: item }));
